@@ -1,0 +1,4 @@
+#include "rsrcs.h"
+
+IDI_ICON ICON "NOTEPAD--.ico"
+IDI_ICON_SM ICON "SMNOTEPAD--.ico"
